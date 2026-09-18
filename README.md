@@ -234,4 +234,4 @@ game:GetService("UserInputService").InputChanged:Connect(function(input)
             startPos.Y.Offset + delta.Y
         )
     end
-end)# ABC
+end)
